@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>BTWIN Eco Project</title>
+    <meta name="description" content="Un site consacré au projet environnemental de la marque BTWIN">
+    <meta name="keywords" content="Vélo, éco, environnement, Terrain de jeu, préserver, planète">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="mon-site.html">
+            <p>accueil</p>
+          </a></li>
+          <li><a href="contact.html">
+              <p>contact</p>
+            </a></li>
+      </ul>
+    </nav>
+    <h1>BTWIN Eco Project</h1>
+    <h2>By Julien Lefranc</h2>
+    <a href="contact.html">Contactez moi</a>
+    <p>By using BTWIN products as your mean of transport, you’re already doing something for the planet. But it’s not enough!
+Firstly, we must improve our knowledge of what causes our environmental impact. There are so many possibilities to reduce it :Repair, Reuse, Reduce, Recycle. Every aspect of our jobs are concerned, from the use of paper to the revolution in our industrial process. Every little success leads to a real change!
+We will act to make BTWIN & DECATHLON leaders on Durable Sport 4 All!</p>
+    <h3>BTWIN Environnemental assesment</h3>
+    <img src="images/bilan environnemental BTWIN.png" alt="bilan environnemental BTWIN" style="max-width: 500px">
+  </body>
+</html>
+<!-- end of file>
